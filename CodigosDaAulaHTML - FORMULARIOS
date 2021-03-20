@@ -4,27 +4,26 @@
         <meta charset="utf-8">
         <meta nome="Author" content="Chorão Jr">
         <meta name="Description" content="O homem que só quer paz, não quer guerra com ninguém">
-        <title> MANO BROWN JR. </title>
-    </head>
+        <title> SKATE </title>
+</head>
     <body>
-        <h2>Loga na conta ae pae, vamo colocar RP no teu lol</h2>
-        <form>
+      <h2>Site pra comprar o Cyberpunk 2077</h2>
+      <form>
+        <div>
+          <label for="nome">Nome:</label>
+          <input type="text" id="nome" placeholder="Digite seu nome">
+        </div>
+          <div>
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" placeholder="Digite sua senha">
+          </div>
+          <form>
             <div>
-                <label for="Cartão de Crédito">Cartão de Crédito:</label>
-                <input type="text" id="cartaodecredito" placeholder="Manda a braba pae">
+              <label for="mensagem">Mensagem:</label>
+              <textarea id="mensagem" placeholder="Digite uma mensagem ae pae"></textarea>
             </div>
-            <form>
-                <div>
-                    <label for="Nome do teu pai">Nome do teu pai:</label>
-                    <input type="text" id="Nome do teu pai" placeholder="Digite nome do teu pai">
-                </div>   
-        </form>
-        <div>
-            <label for="Fala o que tu quiser ai">Fala o que tu quiser ai:</label>
-            <textarea  id="Nome do teu pai" placeholder="Fala o que tu quiser"></textarea>
-        </div>  
-        <div>
-            <button>Aperta ae, vai acontecer nada memo</button>
-        </div> 
+          </form>
+          <button>Enviar a mensagem pae</button>
+      </form>
     </body>
 </html>
