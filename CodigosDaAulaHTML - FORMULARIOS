@@ -1,0 +1,22 @@
+ </head>
+    <body>
+        <h2>Loga na conta ae pae, vamo colocar RP no teu lol</h2>
+        <form>
+            <div>
+                <label for="Cartão de Crédito">Cartão de Crédito:</label>
+                <input type="text" id="cartaodecredito" placeholder="Manda a braba pae">
+            </div>
+            <form>
+                <div>
+                    <label for="Nome do teu pai">Nome do teu pai:</label>
+                    <input type="Nome do teu pai" id="Nome do teu pai" placeholder="Digite nome do teu pai">
+                </div>   
+        </form>
+        <div>
+            <label for="Fala o que tu quiser ai">Fala o que tu quiser ai:</label>
+            <textarea  id="Nome do teu pai" placeholder="Fala o que tu quiser"></textarea>
+        </div>  
+        <div>
+            <button>Aperta ae, vai acontecer nada memo</button>
+        </div> 
+    </body>
