@@ -1,4 +1,11 @@
- </head>
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <meta nome="Author" content="Chorão Jr">
+        <meta name="Description" content="O homem que só quer paz, não quer guerra com ninguém">
+        <title> MANO BROWN JR. </title>
+    </head>
     <body>
         <h2>Loga na conta ae pae, vamo colocar RP no teu lol</h2>
         <form>
@@ -9,7 +16,7 @@
             <form>
                 <div>
                     <label for="Nome do teu pai">Nome do teu pai:</label>
-                    <input type="Nome do teu pai" id="Nome do teu pai" placeholder="Digite nome do teu pai">
+                    <input type="text" id="Nome do teu pai" placeholder="Digite nome do teu pai">
                 </div>   
         </form>
         <div>
@@ -20,3 +27,4 @@
             <button>Aperta ae, vai acontecer nada memo</button>
         </div> 
     </body>
+</html>
