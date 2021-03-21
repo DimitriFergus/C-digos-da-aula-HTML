@@ -10,33 +10,34 @@
       <h2> Minecraft® </h2>
       <p>---------------------------------------------------------------------------------------</p>
       <form>
+        <p> </p>
         <div>
           <label for="nome">Nome completo</label>
           <input type="text" id="nome" placeholder="Digite aqui">
         </div>
-        <form>
-
+          <p> </p>
           <div>
             <label for="numerodocartao">Número do cartão: </label>
             <input type="text" id="numerodocartao" placeholder="Digite aqui">
           </div>
-          <form>
-
+            <p> </p>
             <div>
               <label for="datadevalidade">Data de validade: </label>
               <input type="text" id="datadevalidade" placeholder="Digite aqui">
             </div>
-            <form>
-
+              <p> </p>
               <div>
                 <label for="CVV">Os três números atrás do cartão</label>
                 <input type="text" id="CVV" placeholder="Digite aqui">
               </div>
-
+              <p> </p>
+              <div>
+                <button type="submit">Envie os requisitos</button>
+              </div>
               <p>Agora entre <a href="https://www.minecraft.net/pt-br/" target="blank_">No site do minecraft</a> agora só fazer o download e se divertir!</p>
       </form>
       <div>
-        <img src="imagens/minecraft-001-700x394-1.png">
+        <img src="imagens/minecraft-001-700x394-1.png" title="Minecraft">
       </div>
     </body>
 </html>
