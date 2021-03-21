@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <meta nome="Author" content="Chorão Jr">
+        <meta name="Description" content="O homem que só quer paz, não quer guerra com ninguém">
+        <title> Minecraft® </title>
+</head>
+    <body>
+      <h2> Minecraft® </h2>
+      <p>---------------------------------------------------------------------------------------</p>
+      <form>
+        <div>
+          <label for="nome">Nome completo</label>
+          <input type="text" id="nome" placeholder="Digite aqui">
+        </div>
+        <form>
+
+          <div>
+            <label for="numerodocartao">Número do cartão: </label>
+            <input type="text" id="numerodocartao" placeholder="Digite aqui">
+          </div>
+          <form>
+
+            <div>
+              <label for="datadevalidade">Data de validade: </label>
+              <input type="text" id="datadevalidade" placeholder="Digite aqui">
+            </div>
+            <form>
+
+              <div>
+                <label for="CVV">Os três números atrás do cartão</label>
+                <input type="text" id="CVV" placeholder="Digite aqui">
+              </div>
+
+              <p>Agora entre <a href="https://www.minecraft.net/pt-br/" target="blank_">No site do minecraft</a> agora só fazer o download e se divertir!</p>
+      </form>
+      <div>
+        <img src="imagens/minecraft-001-700x394-1.png">
+      </div>
+    </body>
+</html>
