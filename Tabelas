@@ -1,0 +1,14 @@
+      <h2>Datas de Aniversário</h2>
+      <table>
+        <caption>Datas de Aniversário</caption>
+        <tr>
+          <td>Nome</td>
+          <td>Idade</td>
+          <td>Aniversário</td>
+        </tr>
+        <tr>
+          <td>Alexandre</td>
+          <td>15</td>
+          <td>25/03</td>
+        </tr>
+      </table>
