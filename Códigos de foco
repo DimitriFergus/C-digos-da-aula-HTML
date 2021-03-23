@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <meta nome="Author" content="Chorão Jr">
+        <meta name="Description" content="O homem que só quer paz, não quer guerra com ninguém">
+        <title> Estuda... </title>
+</head>
+    <body>
+      <h2>Gerenciamento de foco</h2>
+      <label for="input">Segundo elemento focado:</label>
+      <input type="text" id="input" placeholder="Foque aqui">
+
+      <div tabindex="2">Terceiro elemento focado</div>
+
+      <div>Esse elemento não vai ser focado</div>
+
+      <div tabindex="1">Primeiro elemento focado</div>
+    </body>
+</html>
