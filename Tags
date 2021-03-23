@@ -1,0 +1,12 @@
+<NAV> 
+</head>
+    <body>
+      <nav>
+        <ul>
+          <li><a href="#">Página inicial do site</a></li>
+          <li><a href="https://www.youtube.com/watch?v=GpfNiv_Q34A" target="blank_">Abelha com drip</a></li>
+          <li><a href="#">Games</a></li>
+        <ul>
+      </nav>
+    </body>
+</html>
