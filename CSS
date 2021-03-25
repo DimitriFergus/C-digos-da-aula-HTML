@@ -29,3 +29,15 @@ li:nth-child(odd){
 li:nth-child(even){
   color: blue;
 }
+
+.exemplo:hover{
+  color: lightblue;
+}
+
+.exemplo:focus{
+  color: lightgreen;
+}
+
+.exemplo:active{
+  color: purple;
+}
