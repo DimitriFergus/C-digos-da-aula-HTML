@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <meta nome="Author" content="Chorão Jr">
+        <meta name="Description" content="O homem que só quer paz, não quer guerra com ninguém">
+        <title> Estuda... </title>
+        <link rel="stylesheet" href="estilo.css">
+</head>
+    <body>
+      <h2>Principais seletores CSS</h2>
+
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+        <li>Item 5</li>
+        <li>Item 6</li>
+      </ul>
+    </body>
+</html>
+-----------------------------------------------------------------------------------------------------------------
+
+li:nth-child(odd){
+  color: red;
+}
+
+li:nth-child(even){
+  color: blue;
+}
